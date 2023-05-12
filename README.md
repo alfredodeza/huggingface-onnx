@@ -1,6 +1,6 @@
 # Using 🤗 Hugging Face with ONNX
 
-This repository contains example notebooks to work with ONNX using 🤗 Hugging Face libraries and tools. It is part of the [Duke University MLOps Coursera Specialization](https://www.coursera.org/specializations/mlops-duke)
+This repository contains example notebooks to work with ONNX using 🤗 Hugging Face libraries and tools. It is part of the [Duke University MLOps Coursera Specialization](https://www.coursera.org/specializations/mlops-machine-learning-duke)
 
 ## Exercise
 
@@ -20,7 +20,7 @@ With the environment in place, go through the notebooks and use the examples tha
 This introductory repository will expose you to learn how does ONNX and Hugging Face works together. It shows what and how you install the necessary libraries to create ONNX models.
 
 
-## Reading material
+## Learning Resources
 
 There are a few sources that are useful to dive deeper into working with ONNX and Hugging Face. Here are a few you can explore:
 
@@ -28,3 +28,12 @@ There are a few sources that are useful to dive deeper into working with ONNX an
 - [Exporting to ONNX - Hugging Face documentation](https://huggingface.co/docs/transformers/serialization)
 - [Main ONNX landing page ](https://onnx.ai/)
 - [ONNX documentation](https://learn.microsoft.com/azure/machine-learning/concept-onnx?WT.mc_id=academic-0000-alfredodeza)
+
+**Related Coursera courses**
+- [Linux and Bash for Data Engineering](https://www.coursera.org/learn/linux-and-bash-for-data-engineering-duke)
+- [Open Source Platforms for MLOps](https://www.coursera.org/learn/open-source-platforms-duke)
+- [Python Essentials for MLOps](https://www.coursera.org/learn/python-essentials-mlops-duke)
+- [Web Applications and Command-Line tools for Data Engineering](https://www.coursera.org/learn/web-app-command-line-tools-for-data-engineering-duke)
+- [Python and Pandas for Data Engineering](https://www.coursera.org/learn/python-and-pandas-for-data-engineering-duke)
+- [Scripting with Python and SQL for Data Engineering](https://www.coursera.org/learn/scripting-with-python-sql-for-data-engineering-duke)
+
